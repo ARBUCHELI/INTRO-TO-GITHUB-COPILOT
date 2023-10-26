@@ -142,7 +142,33 @@ Having now learned the benefits of GitHub Copilot, what are some of the limitati
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Potential Concerns & Limitations
+----------------------------------
+While GitHub Copilot offers tremendous benefits, it’s essential to be aware of potential concerns and limitations associated with its use:
 
+. Concerns About Code Originality and Licensing: One of the primary concerns revolves around code originality and licensing. Copilot generates code based on publicly available sources, 
+------------------------------------------------
+which may raise questions about code ownership and licensing compliance. Developers should exercise caution and ensure that generated code aligns with their project’s licensing 
+requirements.
+
+
+. Copilot’s Limitations in Creative Problem-Solving and Unconventional Tasks: While Copilot excels in routine and repetitive coding tasks, it may have limitations when it comes to 
+-----------------------------------------------------------------------------
+creative problem-solving and unconventional coding challenges. Developers should be prepared to exercise their own creativity and judgment in such situations.
+
+
+. Understanding Copilot’s Occasional Inaccuracies: Copilot, like any AI, is not infallible. It may occasionally provide inaccurate suggestions or misinterpret code context. Developers 
+--------------------------------------------------
+should review Copilot’s suggestions critically and conduct thorough testing to ensure the correctness of the generated code. This means that while Copilot remains a valuable tool, it 
+should never replace a developer’s foundational coding knowledge, as only this manual review can guarantee that the code is working as intended.
+
+By understanding these concerns and limitations and using GitHub Copilot responsibly, developers can harness its benefits while mitigating potential challenges in their coding projects.
+
+* Instructions
+--------------
+What actions would you take to try and mitigate some of Copilots limitations?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

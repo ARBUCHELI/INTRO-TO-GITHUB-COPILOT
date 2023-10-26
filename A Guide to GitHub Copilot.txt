@@ -38,3 +38,49 @@ projects?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The Brain Behind GitHub Copilot
+---------------------------------
+To understand the magic behind GitHub Copilot, we must first dive into the innovative technology at its core. OpenAI, the organization responsible for bringing Copilot to life, has been a 
+pioneering force in the field of artificial intelligence and natural language processing, creating products such as ChatGPT and DALL-E.
+
+At the heart of GitHub Copilot’s intelligence lies the GPT-3 model, a creation of OpenAI. GPT-3, short for “Generative Pre-trained Transformer 3,” is a state-of-the-art language model 
+known for its remarkable language generation capabilities. While initially designed for natural language tasks like text generation and translation, it has been harnessed to extend its 
+prowess to the realm of code assistance. Its adaptability and deep understanding of human language form the foundation upon which Copilot’s intelligence is built.
+
+What truly sets GitHub Copilot apart is its reliance on machine learning and access to vast amounts of coding data from GitHub. This unique combination empowers Copilot to provide 
+real-time, context-aware code suggestions, making it an invaluable tool for developers seeking to enhance their coding efficiency and productivity.
+
+In the exercises that follow, we’ll explore in greater detail how GitHub Copilot leverages this impressive technology to simplify and streamline the coding experience.
+
+* Instructions
+--------------
+If any, how does your past experience with AIs shape your expectations for Copilot? What capabilities do you expect it to have? What about shortcomings?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -111,7 +111,36 @@ With the knowledge of so many other coding projects at its fingertips, how do yo
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Benefits of Using GitHub Copilot
+----------------------------------
+GitHub Copilot offers a wide range of benefits that can significantly enhance your coding experience and project outcomes. Here are some of the key advantages:
 
+. Enhancing Developer Productivity and Efficiency: GitHub Copilot is a productivity booster. It speeds up coding tasks by providing real-time suggestions and automating code generation,
+-------------------------------------------------- 
+allowing developers to complete projects faster and more efficiently.
+
+
+. Reducing the Likelihood of Errors: With Copilot’s code suggestions and autocompletion, the likelihood of introducing errors into your code is reduced. It acts as a vigilant code 
+------------------------------------
+reviewer, helping you maintain code quality and reliability.
+
+
+. Assisting in Learning and Understanding New Code Patterns and Languages: For developers looking to expand their skills, Copilot is a fantastic learning companion. It provides 
+--------------------------------------------------------------------------
+explanations and context for code snippets, aiding in the understanding of new coding patterns and languages.
+
+
+. Reducing Onboarding Time for New Team Members: When new team members join a project, Copilot can be a game-changer. It helps them quickly grasp the codebase, coding standards, and 
+------------------------------------------------
+project context, reducing the onboarding time and getting them up to speed faster.
+
+With GitHub Copilot in a developer’s workflow, they can easily become more efficient, error-resistant, and versatile. But as we’ll see in the next section, Copilot does still have some limitations.
+
+* Instructions
+--------------
+Having now learned the benefits of GitHub Copilot, what are some of the limitations you expect it to have?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 

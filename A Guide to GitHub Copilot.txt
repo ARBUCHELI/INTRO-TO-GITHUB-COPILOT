@@ -89,6 +89,61 @@ How do you think GitHub Copilot is able to generate such a wide variety of code 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* How Does GitHub Copilot Work?
+-------------------------------
+GitHub Copilot operates as a cutting-edge AI-powered coding assistant, and understanding how it functions is essential for harnessing its full potential.
+
+GitHub Copilot’s intelligence is rooted in its extensive training process. It has been trained on a massive dataset comprised of publicly available code from various sources. This wealth 
+of code provides Copilot with a broad understanding of programming languages, libraries, and coding patterns, forming the basis for its assistance.
+
+Copilot then combines this pre-trained knowledge with a deeper understanding of language to understand the context of your code as you write. It draws upon this knowledge to offer 
+relevant suggestions tailored to your specific coding task and style. Whether you prefer a functional or object-oriented approach, Copilot can align with your coding style, making it a 
+versatile tool for a diverse range of developers.
+
+From here, GitHub Copilot constantly evolves, thanks to a feedback loop involving its user community. User feedback plays a pivotal role in refining and improving Copilot’s suggestions, 
+ensuring that it becomes an even more effective coding assistant over time.
+
+In the next exercise, we’ll explore how GitHub Copilot’s capabilities enhance a developer’s workflow.
+
+* Instructions
+--------------
+With the knowledge of so many other coding projects at its fingertips, how do you think GitHub Copilot can benefit your coding experience?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

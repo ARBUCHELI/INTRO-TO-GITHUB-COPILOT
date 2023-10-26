@@ -170,6 +170,50 @@ What actions would you take to try and mitigate some of Copilots limitations?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Wrapping Up
+-------------
+GitHub Copilot opens up a remarkable gateway to the future of programming. With its AI-driven coding assistance, developers can embrace a new era of productivity and efficiency, reducing 
+errors and simplifying even the most complex coding tasks.
+
+As you dive into the world of GitHub Copilot, remember that this tool is a powerful ally in your coding endeavors. It has the potential to streamline your workflow, accelerate your coding 
+projects, and support your learning journey. However, it’s equally important to be mindful of its boundaries and potential concerns, such as code originality and occasional inaccuracies.
+
+So, with GitHub Copilot at your side, explore the possibilities, adapt to its capabilities, and continue honing your foundational coding knowledge. This tool represents a significant step 
+forward in the evolution of software development, and by mastering it, you can stay at the forefront of coding innovation while achieving greater coding efficiency and precision. Embrace 
+the future of programming with GitHub Copilot and unlock your full coding potential.
+
+* Instructions
+--------------
+Congratulations! You have finished learning about one of the latest advancements in AI and how it will likely continue to change how developers approach software development. Take this 
+your knowledge of GitHub Copilot to go and build something grand!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
